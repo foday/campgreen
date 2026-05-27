@@ -1,0 +1,6 @@
+{
+  "name": "Camp Green",
+  "description": "Experience the Outdoors, Responsibly. Sustainable gear and initiatives for a better planet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
